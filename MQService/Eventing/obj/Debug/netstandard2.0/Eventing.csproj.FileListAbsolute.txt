@@ -1,0 +1,16 @@
+C:\eRepo\AllianceAssessment\MQService\Eventing\bin\Debug\netstandard2.0\Eventing.deps.json
+C:\eRepo\AllianceAssessment\MQService\Eventing\bin\Debug\netstandard2.0\Eventing.dll
+C:\eRepo\AllianceAssessment\MQService\Eventing\obj\Debug\netstandard2.0\Eventing.csprojAssemblyReference.cache
+C:\eRepo\AllianceAssessment\MQService\Eventing\obj\Debug\netstandard2.0\Eventing.AssemblyInfoInputs.cache
+C:\eRepo\AllianceAssessment\MQService\Eventing\obj\Debug\netstandard2.0\Eventing.AssemblyInfo.cs
+C:\eRepo\AllianceAssessment\MQService\Eventing\bin\Debug\netstandard2.0\Eventing.pdb
+C:\eRepo\AllianceAssessment\MQService\Eventing\obj\Debug\netstandard2.0\Eventing.dll
+C:\eRepo\AllianceAssessment\MQService\Eventing\obj\Debug\netstandard2.0\Eventing.pdb
+C:\eRepos\AllianceAssessment\MQService\Eventing\bin\Debug\netstandard2.0\Eventing.deps.json
+C:\eRepos\AllianceAssessment\MQService\Eventing\bin\Debug\netstandard2.0\Eventing.dll
+C:\eRepos\AllianceAssessment\MQService\Eventing\bin\Debug\netstandard2.0\Eventing.pdb
+C:\eRepos\AllianceAssessment\MQService\Eventing\obj\Debug\netstandard2.0\Eventing.AssemblyInfoInputs.cache
+C:\eRepos\AllianceAssessment\MQService\Eventing\obj\Debug\netstandard2.0\Eventing.AssemblyInfo.cs
+C:\eRepos\AllianceAssessment\MQService\Eventing\obj\Debug\netstandard2.0\Eventing.dll
+C:\eRepos\AllianceAssessment\MQService\Eventing\obj\Debug\netstandard2.0\Eventing.pdb
+C:\eRepos\AllianceAssessment\MQService\Eventing\obj\Debug\netstandard2.0\Eventing.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+﻿{
+  "product": null,
+  "productList": [
+    {
+      "id": "61b1a919242ba604bba3fb0a",
+      "productName": "Uncle Ben's Rice",
+      "entryDate": "2021-12-09T06:58:33.329Z",
+      "priceWithReduction": 50
+    },
+    {
+      "id": "61b1a919242ba604bba3fb0b",
+      "productName": "A pile of potatoes",
+      "entryDate": "2021-12-09T06:58:33.332Z",
+      "priceWithReduction": 25
+    }
+  ]
+}
